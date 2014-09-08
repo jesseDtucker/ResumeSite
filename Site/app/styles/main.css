@@ -385,3 +385,7 @@ div.detailedWorkInfo{
 	display: block;
 	margin-left: 10%;
 }
+
+.comp-language-header{
+	font-size: 26pt;
+}
